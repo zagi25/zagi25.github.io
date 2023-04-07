@@ -1,0 +1,59 @@
+{
+    "https://www.adobe.com/sign/esignature-resources/purchase-agreement.html": {
+        "00-4": "marquee",
+        "01-4": "jumpToSection",
+        "02-4": "spacer",
+        "03-4": "text",
+        "04-4": "text",
+        "05-4": "image",
+        "06-4": "spacer",
+        "07-4": "text",
+        "08-4": "text",
+        "09-4": "image",
+        "10-4": "text",
+        "11-4": "text",
+        "12-4": "image",
+        "13-4": "text",
+        "14-4": "text",
+        "15-4": "iconBlock"
+    },
+    "https://www.adobe.com/sign/esignature-resources/apartment-lease-agreement.html": {
+        "00-4": "marquee",
+        "01-4": "text",
+        "02-4": "text",
+        "03-4": "image",
+        "04-52": "image",
+        "05-52": "text",
+        "06-52": "iconBlock"
+    },
+    "https://www.adobe.com/sign/esignature-resources/bill-of-lading.html": {
+        "00-4": "marquee",
+        "01-4": "text",
+        "02-4": "text",
+        "03-4": "text",
+        "04-4": "text",
+        "05-4": "image",
+        "06-4": "text",
+        "07-4": "image",
+        "08-4": "text",
+        "09-4": "text",
+        "10-4": "iconBlock"
+    },
+    "https://www.adobe.com/sign/esignature-resources/bill-of-sale.html ": {
+        "00-4": "marquee",
+        "01-4": "text",
+        "02-4": "image",
+        "03-4": "spacer",
+        "04-4": "text",
+        "05-4": "image",
+        "06-4": "spacer",
+        "07-4": "text",
+        "08-4": "image",
+        "09-4": "spacer",
+        "10-4": "text",
+        "11-4": "image",
+        "12-4": "spacer",
+        "13-4": "text",
+        "14-4": "iconBlock"
+    }
+}
