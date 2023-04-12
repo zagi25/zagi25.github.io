@@ -19,7 +19,7 @@
     },
     "https://www.adobe.com/sign/esignature-resources/apartment-lease-agreement.html": {
         "00-4": "marquee",
-        "01-4": "text",
+        "01-4": "jumpToSection",
         "02-4": "text",
         "03-4": "image",
         "04-52": "image",
