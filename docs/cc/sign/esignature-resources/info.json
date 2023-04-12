@@ -22,9 +22,10 @@
         "01-4": "jumpToSection",
         "02-4": "text",
         "03-4": "image",
-        "04-52": "image",
-        "05-52": "text",
-        "06-52": "iconBlock"
+        "04-4": "text",
+        "05-52": "image",
+        "06-52": "text",
+        "07-52": "iconBlock"
     },
     "https://www.adobe.com/sign/esignature-resources/bill-of-lading.html": {
         "00-4": "marquee",
