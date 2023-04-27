@@ -14,7 +14,7 @@
         "11-4": "longtext",
         "12-4": "consonantCard",
         "13-4": "spacer",
-        "14-5": "iconBlock",
+        "14-5": "iconBlock"
     },
     "https://www.adobe.com/acrobat/resources/can-pdfs-contain-viruses.html": {
         "00-4": "aside",
@@ -30,7 +30,7 @@
         "10-97": "longtext",
         "11-97": "consonantCard",
         "12-97": "spacer",
-        "13-97": "iconBlock",
+        "13-97": "iconBlock"
     },
     "https://www.adobe.com/acrobat/resources/chrome-pdf-viewer.html": {
         "00-4": "aside",
@@ -48,7 +48,7 @@
         "12-4": "longtext",
         "13-4": "consonantCard",
         "14-4": "spacer",
-        "15-4": "iconBlock",
+        "15-4": "iconBlock"
     },
     "https://www.adobe.com/acrobat/resources/digital-entrepreneurship-starting-a-business-online.html": {
         "00-4": "aside",
@@ -73,7 +73,7 @@
         "19-4": "longtext",
         "20-4": "consonantCard",
         "21-4": "spacer",
-        "22-4": "iconBlock",
+        "22-4": "iconBlock"
     },
     "https://www.adobe.com/acrobat/resources/free-ebooks-for-students.html": {
         "00-4": "aside",
@@ -87,7 +87,7 @@
         "08-20": "longtext",
         "09-20": "consonantCard",
         "10-20": "spacer",
-        "11-20": "iconBlock",
+        "11-20": "iconBlock"
     },
     "https://www.adobe.com/acrobat/resources/work-from-home-productivity.html": {
         "00-4": "aside",
@@ -107,6 +107,6 @@
         "14-4": "longtext",
         "15-4": "consonantCard",
         "16-4": "spacer",
-        "17-4": "iconBlock",
+        "17-4": "iconBlock"
     }
 }
