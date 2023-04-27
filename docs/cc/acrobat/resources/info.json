@@ -1,7 +1,7 @@
 {
     "https://www.adobe.com/acrobat/resources/best-pdf-software.html": {
         "00-4": "asidesplit",
-        "01-4": "jumpTo",
+        "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longtext",
         "04-4": "image",
@@ -18,7 +18,7 @@
     },
     "https://www.adobe.com/acrobat/resources/can-pdfs-contain-viruses.html": {
         "00-4": "asidesplit",
-        "01-4": "jumpTo",
+        "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longtext",
         "04-4": "longtext",
@@ -34,7 +34,7 @@
     },
     "https://www.adobe.com/acrobat/resources/chrome-pdf-viewer.html": {
         "00-4": "asidesplit",
-        "01-4": "jumpTo",
+        "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longtext",
         "04-4": "spacer",
@@ -52,7 +52,7 @@
     },
     "https://www.adobe.com/acrobat/resources/digital-entrepreneurship-starting-a-business-online.html": {
         "00-4": "asidesplit",
-        "01-4": "jumpTo",
+        "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longtext",
         "04-4": "image",
@@ -77,7 +77,7 @@
     },
     "https://www.adobe.com/acrobat/resources/free-ebooks-for-students.html": {
         "00-4": "asidesplit",
-        "01-4": "jumpTo",
+        "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longtext",
         "04-4": "image",
@@ -91,7 +91,7 @@
     },
     "https://www.adobe.com/acrobat/resources/work-from-home-productivity.html": {
         "00-4": "asidesplit",
-        "01-4": "jumpTo",
+        "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longtext",
         "04-4": "image",
