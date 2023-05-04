@@ -140,7 +140,7 @@
         "13-4": "longformtext",
         "14-4": "consonantCard",
         "15-4": "spacer",
-        "16-4": "iconblock",
+        "16-4": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/grading-online.html": {
         "00-4": "asidesplit",
@@ -158,7 +158,7 @@
         "12-4": "longformtext",
         "13-4": "consonantCard",
         "14-4": "spacer",
-        "15-4": "iconblock",
+        "15-4": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/free-pdf-tools.html": {
         "00-4": "asidesplit",
@@ -176,7 +176,7 @@
         "12-5": "longformtext",
         "13-5": "consonantCard",
         "14-5": "spacer",
-        "15-5": "iconblock",
+        "15-5": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/how-to-combine-pdf-files-on-mac.html": {
         "00-4": "asidesplit",
@@ -189,7 +189,7 @@
         "07-6": "longformtext",
         "08-6": "consonantCard",
         "09-6": "spacer",
-        "10-6": "iconblock",
+        "10-6": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/how-to-add-hyperlink-to-pdf.html": {
         "00-4": "asidesplit",
@@ -204,7 +204,7 @@
         "09-4": "longformtext",
         "10-4": "consonantCard",
         "11-4": "spacer",
-        "12-4": "iconblock",
+        "12-4": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/home-document-management.html": {
         "00-4": "asidesplit",
@@ -221,7 +221,7 @@
         "11-4": "longformtext",
         "12-4": "consonantCard",
         "13-4": "spacer",
-        "14-4": "iconblock",
+        "14-4": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/how-to-convert-jpg-to-pdf-on-mac.html": {
         "00-4": "asidesplit",
@@ -237,7 +237,7 @@
         "10-5": "longformtext",
         "11-5": "consonantCard",
         "12-5": "spacer",
-        "13-5": "iconblock",
+        "13-5": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/how-to-convert-html-to-pdf.html": {
         "00-4": "asidesplit",
@@ -251,7 +251,7 @@
         "08-4": "longformtext",
         "09-4": "consonantCard",
         "10-4": "spacer",
-        "11-4": "iconblock",
+        "11-4": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/how-to-convert-pdf-to-word-on-mac.html": {
         "00-4": "asidesplit",
@@ -267,7 +267,7 @@
         "10-4": "longformtext",
         "11-4": "consonantCard",
         "12-4": "spacer",
-        "13-4": "iconblock",
+        "13-4": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/how-to-convert-pdf-to-jpg-on-mac.html": {
         "00-4": "asidesplit",
@@ -279,6 +279,6 @@
         "06-4": "image",
         "07-4": "longformtext",
         "08-4": "image",
-        "09-4": "iconblock",
+        "09-4": "iconblock"
     }
 }
