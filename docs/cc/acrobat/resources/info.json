@@ -12,7 +12,7 @@
         "09-4": "longformtext",
         "10-4": "longformtext",
         "11-4": "longformtext",
-        "12-4": "consonantCard",
+        "12-4": "consonantcard",
         "13-4": "spacer",
         "14-5": "iconblock"
     },
@@ -28,7 +28,7 @@
         "08-97": "longformtext",
         "09-97": "longformtext",
         "10-97": "longformtext",
-        "11-97": "consonantCard",
+        "11-97": "consonantcard",
         "12-97": "spacer",
         "13-97": "iconblock"
     },
@@ -46,7 +46,7 @@
         "10-4": "image",
         "11-4": "longformtext",
         "12-4": "longformtext",
-        "13-4": "consonantCard",
+        "13-4": "consonantcard",
         "14-4": "spacer",
         "15-4": "iconblock"
     },
@@ -71,7 +71,7 @@
         "17-4": "spacer",
         "18-4": "longformtext",
         "19-4": "longformtext",
-        "20-4": "consonantCard",
+        "20-4": "consonantcard",
         "21-4": "spacer",
         "22-4": "iconblock"
     },
@@ -85,7 +85,7 @@
         "06-20": "spacer",
         "07-20": "longformtext",
         "08-20": "longformtext",
-        "09-20": "consonantCard",
+        "09-20": "consonantcard",
         "10-20": "spacer",
         "11-20": "iconblock"
     },
@@ -105,7 +105,7 @@
         "12-4": "spacer",
         "13-4": "longformtext",
         "14-4": "longformtext",
-        "15-4": "consonantCard",
+        "15-4": "consonantcard",
         "16-4": "spacer",
         "17-4": "iconblock"
     },
@@ -119,7 +119,7 @@
         "06-4": "longformtext",
         "07-4": "longformtext",
         "08-4": "longformtext",
-        "09-4": "consonantCard",
+        "09-4": "consonantcard",
         "10-4": "spacer",
         "11-4": "iconblock"
     },
@@ -138,7 +138,7 @@
         "11-4": "longformtext",
         "12-4": "longformtext",
         "13-4": "longformtext",
-        "14-4": "consonantCard",
+        "14-4": "consonantcard",
         "15-4": "spacer",
         "16-4": "iconblock"
     },
@@ -156,7 +156,7 @@
         "10-4": "longformtext",
         "11-4": "longformtext",
         "12-4": "longformtext",
-        "13-4": "consonantCard",
+        "13-4": "consonantcard",
         "14-4": "spacer",
         "15-4": "iconblock"
     },
@@ -174,7 +174,7 @@
         "10-4": "longformtext",
         "11-4": "image",
         "12-5": "longformtext",
-        "13-5": "consonantCard",
+        "13-5": "consonantcard",
         "14-5": "spacer",
         "15-5": "iconblock"
     },
@@ -187,7 +187,7 @@
         "05-6": "longformtext",
         "06-6": "longformtext",
         "07-6": "longformtext",
-        "08-6": "consonantCard",
+        "08-6": "consonantcard",
         "09-6": "spacer",
         "10-6": "iconblock"
     },
@@ -202,7 +202,7 @@
         "07-4": "image",
         "08-4": "longformtext",
         "09-4": "longformtext",
-        "10-4": "consonantCard",
+        "10-4": "consonantcard",
         "11-4": "spacer",
         "12-4": "iconblock"
     },
@@ -219,7 +219,7 @@
         "09-4": "longformtext",
         "10-4": "longformtext",
         "11-4": "longformtext",
-        "12-4": "consonantCard",
+        "12-4": "consonantcard",
         "13-4": "spacer",
         "14-4": "iconblock"
     },
@@ -235,7 +235,7 @@
         "08-4": "image",
         "09-4": "longformtext",
         "10-5": "longformtext",
-        "11-5": "consonantCard",
+        "11-5": "consonantcard",
         "12-5": "spacer",
         "13-5": "iconblock"
     },
@@ -249,7 +249,7 @@
         "06-4": "image",
         "07-4": "longformtext",
         "08-4": "longformtext",
-        "09-4": "consonantCard",
+        "09-4": "consonantcard",
         "10-4": "spacer",
         "11-4": "iconblock"
     },
@@ -265,7 +265,7 @@
         "08-4": "image",
         "09-4": "longformtext",
         "10-4": "longformtext",
-        "11-4": "consonantCard",
+        "11-4": "consonantcard",
         "12-4": "spacer",
         "13-4": "iconblock"
     },
@@ -290,7 +290,7 @@
         "05-4": "longformtext",
         "06-4": "longformtext",
         "07-4": "longformtext",
-        "08-4": "consonantCard",
+        "08-4": "consonantcard",
         "09-4": "spacer",
         "10-4": "iconblock"
     },
@@ -307,7 +307,7 @@
         "09-4": "longformtext",
         "10-4": "longformtext",
         "11-4": "longformtext",
-        "12-4": "consonantCard",
+        "12-4": "consonantcard",
         "13-4": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/how-to-create-a-to-do-list.html": {
@@ -321,7 +321,7 @@
         "07-4": "spacer",
         "08-4": "longformtext",
         "09-4": "longformtext",
-        "10-4": "consonantCard",
+        "10-4": "consonantcard",
         "11-4": "spacer",
         "12-4": "iconblock"
     },
@@ -341,7 +341,7 @@
         "12-4": "longformtext",
         "13-4": "longformtext",
         "14-5": "longformtext",
-        "15-5": "consonantCard",
+        "15-5": "consonantcard",
         "16-5": "spacer",
         "17-5": "iconblock"
     },
@@ -355,7 +355,7 @@
         "06-4": "image",
         "07-4": "longformtext",
         "08-4": "longformtext",
-        "09-4": "consonantCard",
+        "09-4": "consonantcard",
         "10-4": "spacer",
         "11-4": "iconblock"
     },
@@ -378,7 +378,7 @@
         "15-4": "image",
         "16-4": "longformtext",
         "17-4": "longformtext",
-        "18-4": "consonantCard",
+        "18-4": "consonantcard",
         "19-4": "spacer",
         "20-4": "iconblock"
     },
@@ -395,7 +395,7 @@
         "09-4": "longformtext",
         "10-7": "longformtext",
         "11-7": "longformtext",
-        "12-7": "consonantCard",
+        "12-7": "consonantcard",
         "13-7": "spacer",
         "14-7": "iconblock"
     },
@@ -410,7 +410,7 @@
         "07-4": "image",
         "08-4": "longformtext",
         "09-4": "longformtext",
-        "10-4": "consonantCard",
+        "10-4": "consonantcard",
         "11-4": "spacer",
         "12-4": "iconblock"
     },
@@ -425,7 +425,7 @@
         "07-6": "image",
         "08-6": "longformtext",
         "09-7": "longformtext",
-        "10-7": "consonantCard",
+        "10-7": "consonantcard",
         "11-7": "spacer",
         "12-7": "iconblock"
     },
@@ -439,8 +439,141 @@
         "06-4": "longformtext",
         "07-4": "longformtext",
         "08-4": "longformtext",
-        "09-4": "consonantCard",
+        "09-4": "consonantcard",
         "10-4": "spacer",
         "11-4": "iconblock"
+    },
+    "https://www.adobe.com/acrobat/resources/how-to-write-a-business-proposal.html": {
+        "00-4": "asidesplit",
+        "01-4": "jumpto",
+        "02-4": "longformtext",
+        "03-4": "image",
+        "04-4": "longformtext",
+        "05-4": "longformtext",
+        "06-4": "longformtext",
+        "07-4": "consonantcard",
+        "08-4": "iconblock"
+    },
+    "https://www.adobe.com/acrobat/resources/how-to-recover-from-data-loss.html": {
+        "00-4": "asidesplit",
+        "01-4": "jumpto",
+        "02-4": "spacer",
+        "03-4": "longformtext",
+        "04-4": "spacer",
+        "05-4": "longformtext",
+        "06-4": "longformtext",
+        "07-4": "image",
+        "08-4": "spacer",
+        "09-4": "longformtext",
+        "10-4": "longformtext",
+        "11-4": "longformtext",
+        "12-4": "consonantcard",
+        "13-4": "spacer",
+        "14-4": "iconblock"
+    },
+    "https://www.adobe.com/acrobat/resources/how-to-write-a-project-proposal.html": {
+        "00-4": "asidesplit",
+        "01-4": "jumpto",
+        "02-4": "longformtext",
+        "03-4": "image",
+        "04-4": "longformtext",
+        "05-4": "longformtext",
+        "06-4": "longformtext",
+        "07-4": "longformtext",
+        "08-4": "longformtext",
+        "09-4": "longformtext",
+        "10-4": "longformtext",
+        "11-4": "consonantcard",
+        "12-4": "spacer",
+        "13-4": "iconblock"
+    },
+    "https://www.adobe.com/acrobat/resources/how-to-write-a-college-essay.html": {
+        "00-4": "asidesplit",
+        "01-4": "jumpto",
+        "02-4": "spacer",
+        "03-4": "longformtext",
+        "04-4": "image",
+        "05-4": "longformtext",
+        "06-4": "longformtext",
+        "07-4": "longformtext",
+        "08-4": "consonantcard",
+        "09-4": "spacer",
+        "10-4": "iconblock"
+    },
+    "https://www.adobe.com/acrobat/resources/how-to-write-a-research-paper.html": {
+        "00-4": "asidesplit",
+        "01-4": "jumpTo",
+        "02-4": "spacer",
+        "03-4": "longformtext",
+        "04-6": "longformtext",
+        "05-6": "image",
+        "06-6": "spacer",
+        "07-6": "longformtext",
+        "08-6": "longformtext",
+        "09-6": "consonantcard",
+        "10-6": "spacer",
+        "11-6": "iconblock"
+    },
+    "https://www.adobe.com/acrobat/resources/keep-documents-safe-in-a-disaster.html": {
+        "00-4": "asidesplit",
+        "01-4": "jumpto",
+        "02-4": "spacer",
+        "03-4": "longformtext",
+        "04-4": "longformtext",
+        "05-4": "image",
+        "06-4": "longformtext",
+        "07-4": "longformtext",
+        "08-4": "longformtext",
+        "09-4": "consonantcard",
+        "10-4": "spacer",
+        "11-4": "iconblock"
+    },
+    "https://www.adobe.com/acrobat/resources/online-homework.html": {
+        "00-4": "asidesplit",
+        "01-4": "jumpto",
+        "02-4": "spacer",
+        "03-4": "longformtext",
+        "04-4": "image",
+        "05-4": "longformtext",
+        "06-4": "longformtext",
+        "07-4": "image",
+        "08-4": "longformtext",
+        "09-4": "longformtext",
+        "10-4": "consonantcard",
+        "11-4": "spacer",
+        "12-4": "iconblock"
+    },
+    "https://www.adobe.com/acrobat/resources/how-to-write-on-permission-slip.html": {
+        "00-4": "asidesplit",
+        "01-4": "jumpto",
+        "02-4": "spacer",
+        "03-4": "longformtext",
+        "04-4": "image",
+        "05-4": "longformtext",
+        "06-4": "image",
+        "07-4": "longformtext",
+        "08-4": "image",
+        "09-4": "longformtext",
+        "10-4": "longformtext",
+        "11-4": "consonantcard",
+        "12-4": "spacer",
+        "13-4": "iconblock"
+    },
+    "https://www.adobe.com/acrobat/resources/important-documents-to-digitize.html": {
+        "00-4": "asidesplit",
+        "01-4": "jumpto",
+        "02-4": "spacer",
+        "03-4": "longformtext",
+        "04-4": "image",
+        "05-4": "longformtext",
+        "06-4": "longformtext",
+        "07-4": "image",
+        "08-4": "longformtext",
+        "09-4": "image",
+        "10-4": "longformtext",
+        "11-4": "longformtext",
+        "12-4": "consonantcard",
+        "13-4": "spacer",
+        "14-4": "iconblock"
     }
 }
