@@ -1,6 +1,6 @@
 {
     "https://www.adobe.com/acrobat/resources/best-pdf-software.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -17,7 +17,7 @@
         "14-5": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/can-pdfs-contain-viruses.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -33,7 +33,7 @@
         "13-97": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/chrome-pdf-viewer.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -51,7 +51,7 @@
         "15-4": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/digital-entrepreneurship-starting-a-business-online.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -76,7 +76,7 @@
         "22-4": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/free-ebooks-for-students.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -90,7 +90,7 @@
         "11-20": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/work-from-home-productivity.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -110,7 +110,7 @@
         "17-4": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/best-free-pdf-editor.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -124,7 +124,7 @@
         "11-4": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/collaboration-tools.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -143,7 +143,7 @@
         "16-4": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/grading-online.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -161,7 +161,7 @@
         "15-4": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/free-pdf-tools.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -179,7 +179,7 @@
         "15-5": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/how-to-combine-pdf-files-on-mac.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "image",
@@ -192,7 +192,7 @@
         "10-6": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/how-to-add-hyperlink-to-pdf.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -207,7 +207,7 @@
         "12-4": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/home-document-management.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -224,7 +224,7 @@
         "14-4": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/how-to-convert-jpg-to-pdf-on-mac.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -240,7 +240,7 @@
         "13-5": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/how-to-convert-html-to-pdf.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "longformtext",
@@ -254,7 +254,7 @@
         "11-4": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/how-to-convert-pdf-to-word-on-mac.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -270,7 +270,7 @@
         "13-4": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/how-to-convert-pdf-to-jpg-on-mac.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -282,7 +282,7 @@
         "09-4": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/how-to-edit-pdf-on-mac.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "image",
@@ -295,7 +295,7 @@
         "10-4": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/how-to-create-fillable-pdf.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -311,7 +311,7 @@
         "13-4": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/how-to-create-a-to-do-list.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -326,7 +326,7 @@
         "12-4": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/how-to-get-photography-clients.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -346,7 +346,7 @@
         "17-5": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/how-to-make-a-pdf-editable.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "longformtext",
@@ -360,7 +360,7 @@
         "11-4": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/how-to-make-a-recipe-book.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -383,7 +383,7 @@
         "20-4": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/how-to-redact-a-pdf.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -400,7 +400,7 @@
         "14-7": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/how-to-run-a-sustainable-business.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -415,7 +415,7 @@
         "12-4": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/how-to-remove-pdf-password.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -430,7 +430,7 @@
         "12-7": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/how-to-search-pdf.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -444,7 +444,7 @@
         "11-4": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/how-to-write-a-business-proposal.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "image",
@@ -455,7 +455,7 @@
         "08-4": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/how-to-recover-from-data-loss.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -472,7 +472,7 @@
         "14-4": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/how-to-write-a-project-proposal.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "image",
@@ -488,7 +488,7 @@
         "13-4": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/how-to-write-a-college-essay.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -501,7 +501,7 @@
         "10-4": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/how-to-write-a-research-paper.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpTo",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -515,7 +515,7 @@
         "11-6": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/keep-documents-safe-in-a-disaster.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -529,7 +529,7 @@
         "11-4": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/online-homework.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -544,7 +544,7 @@
         "12-4": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/how-to-write-on-permission-slip.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -560,7 +560,7 @@
         "13-4": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/important-documents-to-digitize.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -577,7 +577,7 @@
         "14-4": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/remote-work-tools.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -593,7 +593,7 @@
         "13-4": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/pdf-editor-for-students.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -609,7 +609,7 @@
         "13-5": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/safety-posters-for-every-workplace.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -627,7 +627,7 @@
         "15-4": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/professions-that-need-digital-portfolios.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -643,7 +643,7 @@
         "13-4": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/small-business-applications.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "longformtext",
@@ -657,7 +657,7 @@
         "11-4": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/small-business-website-essentials.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -669,7 +669,7 @@
         "09-4": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/professional-skills-for-any-industry.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -688,7 +688,7 @@
         "16-4": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/side-hustles-from-home.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -706,7 +706,7 @@
         "15-4": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/tips-for-organizing-digital-documents.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -728,7 +728,7 @@
         "19-4": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/what-is-a-digital-workflow.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -741,7 +741,7 @@
         "10-4": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/workflow-automation.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -757,7 +757,7 @@
         "13-4": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/what-to-do-after-college.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -771,7 +771,7 @@
         "11-4": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/why-is-social-media-important-for-your-business.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -780,7 +780,7 @@
         "06-4": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/work-from-anywhere.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "image",
@@ -794,7 +794,7 @@
         "11-4": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/how-to-write-an-ebook.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
