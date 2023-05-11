@@ -24,13 +24,13 @@
         "04-4": "longformtext",
         "05-4": "longformtext",
         "06-4": "image",
-        "07-97": "longformtext",
-        "08-97": "longformtext",
-        "09-97": "longformtext",
-        "10-97": "longformtext",
-        "11-97": "consonantcard",
-        "12-97": "spacer",
-        "13-97": "iconblock"
+        "07-4": "longformtext",
+        "08-4": "longformtext",
+        "09-4": "longformtext",
+        "10-4": "longformtext",
+        "11-4": "consonantcard",
+        "12-4": "spacer",
+        "13-4": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/chrome-pdf-viewer.html": {
         "00-4": "marqueesplit",
