@@ -81,13 +81,13 @@
         "02-4": "spacer",
         "03-4": "longformtext",
         "04-4": "image",
-        "05-20": "longformtext",
-        "06-20": "spacer",
-        "07-20": "longformtext",
-        "08-20": "longformtext",
-        "09-20": "consonantcard",
-        "10-20": "spacer",
-        "11-20": "iconblock"
+        "05-4": "longformtext",
+        "06-4": "spacer",
+        "07-4": "longformtext",
+        "08-4": "longformtext",
+        "09-4": "consonantcard",
+        "10-4": "spacer",
+        "11-4": "iconblock"
     },
     "https://www.adobe.com/acrobat/resources/work-from-home-productivity.html": {
         "00-4": "marqueesplit",
