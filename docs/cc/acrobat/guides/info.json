@@ -16,7 +16,7 @@
         "13-4": "longformtext",
         "14-4": "consonantcard",
         "15-4": "spacer",
-        "16-4": "iconblock"
+        "16-4": "iconblockfragment"
     },
     "https://www.adobe.com/acrobat/guides/how-to-write-a-resume.html": {
         "00-6": "marqueesplit",
@@ -34,7 +34,7 @@
         "12-6": "longformtext",
         "13-6": "consonantcard",
         "14-6": "spacer",
-        "15-6": "iconblock"
+        "15-6": "iconblockfragment"
     },
     "https://www.adobe.com/acrobat/guides/how-to-write-cover-letter.html": {
         "00-4": "marqueesplit",
@@ -62,7 +62,7 @@
         "22-4": "longformtext",
         "23-4": "consonantcard",
         "24-4": "spacer",
-        "25-4": "iconblock"
+        "25-4": "iconblockfragment"
     },
     "https://www.adobe.com/acrobat/guides/what-is-ocr.html": {
         "00-6": "marqueesplit",
@@ -80,6 +80,6 @@
         "12-6": "longformtext",
         "13-6": "consonantcard",
         "14-6": "spacer",
-        "15-6": "iconblock"
+        "15-6": "iconblockfragment"
     }
 }
