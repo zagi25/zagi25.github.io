@@ -83,7 +83,7 @@
         "15-6": "iconblockfragment"
     },
     "https://www.adobe.com/acrobat/guides/create-with-pdf-maker.html": {
-        "00-4": "marquee",
+        "00-4": "marqueesplit",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -99,6 +99,6 @@
         "13-4": "longformtext",
         "14-4": "consonantcard",
         "15-4": "spacer",
-        "16-4": "iconblock"
+        "16-4": "iconblockfragment"
     }
 }
