@@ -17,5 +17,24 @@
         "04-4": "marqueeleft",
         "05-4": "unknown",
         "06-4": "unknown"
+    },
+    "https://www.adobe.com/acrobat/how-to/unlock-pdf.html": {
+        "00-4": "marqueeright",
+        "01-4": "aside",
+        "02-4": "iconblockgroup",
+        "03-4": "unknown",
+        "04-4": "unknown",
+        "05-4": "unknown",
+        "06-4": "unknown"
+    },
+    "https://www.adobe.com/acrobat/how-to/split-pdf-pages.html": {
+        "00-4": "marqueeright",
+        "01-4": "aside",
+        "02-4": "iconblockgroup",
+        "03-4": "iconblockgroup",
+        "04-4": "unknown",
+        "05-4": "marqueeleft",
+        "06-4": "unknown",
+        "07-4": "unknown"
     }
 }
