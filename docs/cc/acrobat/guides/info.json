@@ -175,8 +175,9 @@
         "04-6": "longformtext",
         "05-6": "longformtext",
         "06-6": "longformtext",
-        "07-6": "consonantcard",
-        "08-6": "spacer",
-        "09-6": "iconblockfragment"
+        "07-6": "longformtext",
+        "08-6": "consonantcard",
+        "09-6": "spacer",
+        "10-6": "iconblockfragment"
     }
 }
