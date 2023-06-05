@@ -142,9 +142,10 @@
         "05-4": "longformtext",
         "06-4": "longformtext",
         "07-4": "longformtext",
-        "08-4": "consonantcard",
-        "09-4": "spacer",
-        "10-4": "iconblockfragment"
+        "08-4": "longformtext",
+        "09-4": "consonantcard",
+        "10-4": "spacer",
+        "11-4": "iconblockfragment"
     },
     "https://www.adobe.com/acrobat/guides/what-is-business-agility.html": {
         "00-6": "marqueesplit",
