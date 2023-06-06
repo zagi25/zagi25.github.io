@@ -5,7 +5,7 @@
         "02-4": "iconblockgroup",
         "03-4": "iconblockgroup",
         "04-4": "howtomaybe",
-        "05-4": "marqueeleft",
+        "05-4": "marqueedefault",
         "06-4": "longformtext",
         "07-4": "pricesmaybe"
     },
@@ -14,7 +14,7 @@
         "01-4": "aside",
         "02-4": "iconblockgroup",
         "03-4": "howtomaybe",
-        "04-4": "marqueeleft",
+        "04-4": "marqueedefault",
         "05-4": "longformtext",
         "06-4": "pricesmaybe"
     },
@@ -33,7 +33,7 @@
         "02-4": "iconblockgroup",
         "03-4": "iconblockgroup",
         "04-4": "howtomaybe",
-        "05-4": "marqueeleft",
+        "05-4": "marqueedefault",
         "06-4": "longformtext",
         "07-4": "pricesmaybe"
     },
@@ -72,7 +72,7 @@
         "02-4": "iconblockgroup",
         "03-4": "iconblockgroup",
         "04-4": "howtomaybe",
-        "05-4": "marqueeleft",
+        "05-4": "marqueedefault",
         "06-4": "longformtext",
         "07-4": "pricesmaybe"
     },
@@ -81,7 +81,7 @@
         "01-4": "aside",
         "02-4": "iconblockgroup",
         "03-4": "howtomaybe",
-        "04-4": "marqueeleft",
+        "04-4": "marqueedefault",
         "05-4": "longformtext",
         "06-4": "pricesmaybe"
     },
@@ -91,7 +91,7 @@
         "02-4": "iconblockgroup",
         "03-4": "iconblockgroup",
         "04-4": "howtomaybe",
-        "05-4": "marqueeleft",
+        "05-4": "marqueedefault",
         "06-4": "longformtext",
         "07-4": "pricesmaybe"
     },
@@ -101,7 +101,7 @@
         "02-4": "iconblockgroup",
         "03-4": "iconblockgroup",
         "04-4": "howtomaybe",
-        "05-4": "marqueeleft",
+        "05-4": "marqueedefault",
         "06-4": "longformtext",
         "07-4": "pricesmaybe"
     },
@@ -121,7 +121,7 @@
         "02-4": "iconblockgroup",
         "03-4": "howtomaybe",
         "04-4": "text",
-        "05-4": "marqueeleft",
+        "05-4": "marqueedefault",
         "06-4": "longformtext",
         "07-4": "pricesmaybe"
     },
@@ -132,7 +132,7 @@
         "03-4": "iconblockgroup",
         "04-4": "howtomaybe",
         "05-4": "text",
-        "06-4": "marqueeleft",
+        "06-4": "marqueedefault",
         "07-4": "longformtext",
         "08-4": "pricesmaybe"
     },
@@ -142,7 +142,7 @@
         "02-4": "iconblockgroup",
         "03-4": "iconblockgroup",
         "04-4": "howtomaybe",
-        "05-4": "marqueeleft",
+        "05-4": "marqueedefault",
         "06-4": "longformtext",
         "07-4": "pricesmaybe"
     },
@@ -162,7 +162,7 @@
         "02-4": "iconblockgroup",
         "03-4": "iconblockgroup",
         "04-4": "howtomaybe",
-        "05-4": "marqueeleft",
+        "05-4": "marqueedefault",
         "06-4": "longformtext",
         "07-4": "pricesmaybe"
     },
@@ -172,7 +172,7 @@
         "02-4": "iconblockgroup",
         "03-4": "iconblockgroup",
         "04-4": "howtomaybe",
-        "05-4": "marqueeleft",
+        "05-4": "marqueedefault",
         "06-4": "longformtext",
         "07-4": "pricesmaybe"
     },
@@ -182,7 +182,7 @@
         "02-4": "iconblockgroup",
         "03-4": "iconblockgroup",
         "04-4": "howtomaybe",
-        "05-4": "marqueeleft",
+        "05-4": "marqueedefault",
         "06-4": "longformtext",
         "07-4": "pricesmaybe"
     },
@@ -192,7 +192,7 @@
         "02-4": "iconblockgroup",
         "03-4": "iconblockgroup",
         "04-4": "howtomaybe",
-        "05-4": "marqueeleft",
+        "05-4": "marqueedefault",
         "06-4": "longformtext",
         "07-4": "pricesmaybe"
     },
@@ -203,7 +203,7 @@
         "03-4": "iconblockgroup",
         "04-4": "iconblockgroup",
         "05-4": "howtomaybe",
-        "06-4": "marqueeleft",
+        "06-4": "marqueedefault",
         "07-4": "longformtext",
         "08-4": "pricesmaybe"
     },
@@ -221,7 +221,7 @@
         "01-4": "aside",
         "02-4": "iconblockgroup",
         "03-4": "howtomaybe",
-        "04-4": "marqueeleft",
+        "04-4": "marqueedefault",
         "05-4": "longformtext",
         "06-4": "pricesmaybe"
     },
@@ -230,7 +230,7 @@
         "01-4": "aside",
         "02-4": "iconblockgroup",
         "03-4": "howtomaybe",
-        "04-4": "marqueeleft",
+        "04-4": "marqueedefault",
         "05-4": "longformtext",
         "06-4": "pricesmaybe"
     },
