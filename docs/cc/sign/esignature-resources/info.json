@@ -1,6 +1,6 @@
 {
     "https://www.adobe.com/sign/esignature-resources/purchase-agreement.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -18,7 +18,7 @@
         "15-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/advance-directive-forms.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -30,7 +30,7 @@
         "09-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/apartment-lease-agreement.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "image",
@@ -40,7 +40,7 @@
         "07-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/basics-of-employee-handbook-acknowledgement.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -53,7 +53,7 @@
         "10-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/bill-of-lading.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "longformtext",
@@ -66,7 +66,7 @@
         "10-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/bill-of-sale.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "image",
         "03-4": "spacer",
@@ -83,7 +83,7 @@
         "14-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/business-proposal.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "image",
@@ -95,7 +95,7 @@
         "09-7": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/confidentiality-agreement.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -111,7 +111,7 @@
         "13-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/construction-bid-template.html": {
-        "00-6": "marquee",
+        "00-6": "marqueedefault",
         "01-6": "jumpto",
         "02-6": "spacer",
         "03-6": "longformtext",
@@ -130,7 +130,7 @@
         "16-6": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/construction-contract.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -140,7 +140,7 @@
         "07-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/contract-for-services.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "image",
         "03-4": "spacer",
@@ -154,7 +154,7 @@
         "11-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/contract-management.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "image",
@@ -167,7 +167,7 @@
         "10-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/contract-signing.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "longformtext",
@@ -177,7 +177,7 @@
         "07-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/contract-signing-what-it-means-and-how-to-do-it-right.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -188,7 +188,7 @@
         "08-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/create-signature-excel.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -197,7 +197,7 @@
         "06-6": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/different-affidavit-types.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "image",
@@ -216,7 +216,7 @@
         "16-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/digital-certificate.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -233,7 +233,7 @@
         "14-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/digital-mortgages.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -249,7 +249,7 @@
         "13-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/document-digitization.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -262,7 +262,7 @@
         "10-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/document-workflow-ultimate-management-guide.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -274,7 +274,7 @@
         "09-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/edoc.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "image",
         "03-4": "spacer",
@@ -292,7 +292,7 @@
         "15-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/electrical-contract.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "image",
@@ -304,7 +304,7 @@
         "09-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/employment-contract.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "image",
@@ -316,7 +316,7 @@
         "09-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/esign-act.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -329,7 +329,7 @@
         "10-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/everything-to-know-about-sba-disaster-relief-loans.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "image",
@@ -342,7 +342,7 @@
         "10-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/everything-you-need-to-know-about-sales-contracts.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "longformtext",
@@ -369,7 +369,7 @@
         "12-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/fixed-price-contract.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -381,7 +381,7 @@
         "09-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/generate-signature.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "image",
         "03-4": "spacer",
@@ -399,7 +399,7 @@
         "15-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/grant-proposal.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "image",
@@ -409,7 +409,7 @@
         "07-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/handwritten-signature.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -422,7 +422,7 @@
         "10-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/hold-harmless-agreement.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "image",
@@ -437,7 +437,7 @@
         "12-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/home-improvement-contract.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "image",
@@ -453,7 +453,7 @@
         "13-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/house-rental-agreement.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "image",
@@ -467,7 +467,7 @@
         "11-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/house-rental-application.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "image",
         "03-4": "longformtext",
@@ -478,7 +478,7 @@
         "08-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/how-to-ask-for-a-letter-of-recommendation.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "image",
@@ -486,7 +486,7 @@
         "05-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/how-to-create-streamlined-contract-review-process.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "image",
@@ -496,7 +496,7 @@
         "07-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/how-to-notarize-a-document.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "image",
@@ -509,7 +509,7 @@
         "10-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/how-to-request-a-transcript.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -519,7 +519,7 @@
         "07-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/how-to-run-an-efficient-contract-renewal-process.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "image",
@@ -529,7 +529,7 @@
         "07-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/how-to-streamline-sales-workflow.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "image",
@@ -541,7 +541,7 @@
         "09-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/how-to-write-a-contract.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "image",
         "03-4": "spacer",
@@ -558,7 +558,7 @@
         "14-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/how-to-write-a-proposal.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -575,7 +575,7 @@
         "14-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/how-to-write-invoice.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "longformtext",
@@ -591,7 +591,7 @@
         "13-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/hvac-contract.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "image",
@@ -607,7 +607,7 @@
         "13-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/informed-consent-form.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -622,7 +622,7 @@
         "12-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/irs-w9-form.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -638,7 +638,7 @@
         "13-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/landscape-contract.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "image",
@@ -653,7 +653,7 @@
         "12-7": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/lease-agreement.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -672,7 +672,7 @@
         "16-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/lease-termination.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "image",
@@ -684,7 +684,7 @@
         "09-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/legal-memo.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "longformtext",
@@ -695,7 +695,7 @@
         "08-6": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/letter-of-employment-offer.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "image",
         "03-4": "longformtext",
@@ -706,7 +706,7 @@
         "08-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/letter-of-intent.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "image",
@@ -721,7 +721,7 @@
         "12-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/letter-of-intent-to-purchase.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "image",
@@ -735,7 +735,7 @@
         "11-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/letter-of-interest.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "image",
@@ -746,7 +746,7 @@
         "08-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/license-contract.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "image",
@@ -758,7 +758,7 @@
         "09-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/loan-agreement.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "image",
@@ -771,7 +771,7 @@
         "10-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/management-contract.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "image",
@@ -779,7 +779,7 @@
         "05-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/many-benefits-of-going-paperless-in-human-resources.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "image",
@@ -789,7 +789,7 @@
         "07-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/marketing-proposal.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "longformtext",
@@ -802,7 +802,7 @@
         "10-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/memorandum-of-understanding.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -815,7 +815,7 @@
         "10-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/mortgage-note.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "image",
         "03-4": "longformtext",
@@ -826,7 +826,7 @@
         "08-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/msa.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "image",
@@ -836,7 +836,7 @@
         "07-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/non-compete-agreements.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -846,7 +846,7 @@
         "07-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/notice-of-privacy-practices.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -861,7 +861,7 @@
         "12-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/operating-agreement.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "image",
@@ -877,7 +877,7 @@
         "13-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/paint-contract.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "image",
@@ -887,7 +887,7 @@
         "07-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/parental-involvement-with-esigning.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -899,7 +899,7 @@
         "09-5": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/partnership-agreement.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -913,7 +913,7 @@
         "11-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/prepare-legal-documents.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "longformtext",
@@ -924,7 +924,7 @@
         "08-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/procurement-process.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -941,7 +941,7 @@
         "14-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/promissory-note.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "image",
         "03-4": "spacer",
@@ -962,7 +962,7 @@
         "18-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/property-management-agreement.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -976,7 +976,7 @@
         "11-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/real-estate-contract.html": {
-        "00-6": "marquee",
+        "00-6": "marqueedefault",
         "01-6": "jumpto",
         "02-6": "image",
         "03-6": "spacer",
@@ -993,7 +993,7 @@
         "14-6": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/remote-school-forms.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -1008,7 +1008,7 @@
         "12-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/residential-lease-agreement.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "longformtext",
@@ -1017,7 +1017,7 @@
         "06-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/roofing-contract.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "image",
@@ -1029,7 +1029,7 @@
         "09-6": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/sba-loan-application-overview.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "image",
@@ -1039,7 +1039,7 @@
         "07-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/service-level-agreement.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "image",
@@ -1049,7 +1049,7 @@
         "07-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/sign-document-on-ipad.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "image",
@@ -1060,7 +1060,7 @@
         "08-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/sign-document-on-iphone.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "image",
         "03-4": "longformtext",
@@ -1072,7 +1072,7 @@
         "09-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/sign-document-on-mac.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "image",
@@ -1088,7 +1088,7 @@
         "00-4": "jumpto",
         "01-4": "spacer",
         "02-4": "longformtext",
-        "03-4": "marquee",
+        "03-4": "marqueedefault",
         "04-4": "image",
         "05-4": "longformtext",
         "06-4": "image",
@@ -1101,7 +1101,7 @@
         "13-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/subcontractor-agreements.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -1121,7 +1121,7 @@
         "17-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/sublease-agreement.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -1132,7 +1132,7 @@
         "08-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/systems-of-agreements.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -1143,7 +1143,7 @@
         "08-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/ultimate-guide-to-remote-onboarding-for-human-resources.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "image",
@@ -1154,7 +1154,7 @@
         "08-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/ultimate-guide-to-small-business-grants.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "image",
         "03-4": "longformtext",
@@ -1166,7 +1166,7 @@
         "09-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/uniform-electronic-transactions-act.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -1180,7 +1180,7 @@
         "11-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/wet-signature.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "spacer",
@@ -1193,7 +1193,7 @@
         "10-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/what-is-an-affidavit.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "image",
@@ -1203,7 +1203,7 @@
         "07-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/what-is-collateral.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "longformtext",
@@ -1211,7 +1211,7 @@
         "05-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/what-is-contract-lifecycle-management-ultimate-guide.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "longformtext",
@@ -1225,7 +1225,7 @@
         "11-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/what-is-itemized-receipts.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "spacer",
         "03-4": "longformtext",
@@ -1234,7 +1234,7 @@
         "06-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/wholesale-contract.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "image",
@@ -1246,7 +1246,7 @@
         "09-4": "iconblockfragment"
     },
     "https://www.adobe.com/sign/esignature-resources/workflow-automation.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "jumpto",
         "02-4": "longformtext",
         "03-4": "image",
