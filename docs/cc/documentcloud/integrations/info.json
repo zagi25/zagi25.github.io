@@ -16,10 +16,11 @@
         "02-4": "media",
         "03-4": "spacer",
         "04-4": "aside",
-        "05-4": "iconblockgroup",
-        "06-4": "text",
-        "07-4": "iconblockgroup",
-        "08-4": "iconblockfragment"
+        "05-4": "text",
+        "06-4": "iconblockgroup",
+        "07-4": "text",
+        "08-4": "iconblockgroup",
+        "09-4": "iconblockfragment"
     },
     "https://www.adobe.com/documentcloud/integrations/box.html": {
         "00-4": "jumpto",
