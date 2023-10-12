@@ -22,13 +22,12 @@
         "08-4": "iconblockfragment"
     },
     "https://www.adobe.com/documentcloud/integrations/box.html": {
-        "00-4": "jumpto",
-        "01-4": "longformtext",
-        "02-4": "longformtext",
-        "03-4": "longformtext",
+        "00-4": "iconblock",
+        "01-4": "divider",
+        "02-4": "media",
+        "03-4": "assurance",
         "04-4": "longformtext",
-        "05-4": "longformtext",
-        "06-13": "divider"
+        "05-4": "iconblockfragment",
     },
     "https://www.adobe.com/documentcloud/integrations/conga.html": {
         "00-4": "longformtext",
