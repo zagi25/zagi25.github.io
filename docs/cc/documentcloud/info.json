@@ -26,10 +26,10 @@
   },
   "https://www.adobe.com/documentcloud/resources.html": {
     "00-4": "marquee",
-    "01-4": "longformtext",
-    "02-7": "jumpto",
-    "03-52": "longformtext",
-    "04-52": "longformtext",
-    "05-67": "spacer"
+    "01-4": "unknown",
+    "02-4": "unknown",
+    "03-4": "unknown",
+    "04-4": "unknown",
+    "05-4": "unknown"
   }
 }
