@@ -195,7 +195,7 @@
         "05-10": "unknown"
     },
     "https://www.adobe.com/documentcloud/integrations/salesforce.html": {
-        "00-4": "marquee",
+        "00-4": "uknown",
         "01-4": "unknown",
         "02-4": "unknown",
         "03-4": "unknown",
@@ -204,13 +204,7 @@
         "06-4": "unknown",
         "07-4": "unknown",
         "08-4": "unknown",
-        "09-4": "unknown",
-        "10-4": "unknown",
-        "11-4": "unknown",
-        "12-4": "unknown",
-        "13-4": "unknown",
-        "14-4": "unknown",
-        "15-4": "unknown"
+        "09-4": "unknown"
     },
     "https://www.adobe.com/documentcloud/integrations/sap-ariba.html": {
         "00-4": "iconblock",
