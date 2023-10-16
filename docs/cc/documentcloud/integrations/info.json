@@ -63,7 +63,7 @@
         "04-4": "iconblockfragment"
     },
     "https://www.adobe.com/documentcloud/integrations/isv-partner-program.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "uknown",
         "02-4": "uknown",
         "03-4": "uknown",
@@ -107,7 +107,7 @@
         "06-4": "iconblockfragment"
     },
     "https://www.adobe.com/documentcloud/integrations/microsoft-office-365.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-6": "unkown",
         "02-6": "unkown",
         "03-6": "unkown",
@@ -133,7 +133,7 @@
         "07-4": "iconblockfragment"
     },
     "https://www.adobe.com/documentcloud/integrations/microsoft-search.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "unknown",
         "02-4": "unknown",
         "03-4": "unknown",
@@ -157,7 +157,7 @@
         "08-4": "iconblockfragment"
     },
     "https://www.adobe.com/documentcloud/integrations/microsoft-teams.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "unknown",
         "02-4": "unknown",
         "03-4": "unknown",
@@ -165,7 +165,7 @@
         "05-4": "unknown"
     },
     "https://www.adobe.com/documentcloud/integrations/microsoft.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "unkown",
         "02-4": "unkown",
         "03-4": "unkown",
@@ -187,7 +187,7 @@
         "06-4": "iconblockfragment"
     },
     "https://www.adobe.com/documentcloud/integrations/notarize.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-10": "unknown",
         "02-10": "unknown",
         "03-10": "unknown",
@@ -195,7 +195,7 @@
         "05-10": "unknown"
     },
     "https://www.adobe.com/documentcloud/integrations/salesforce.html": {
-        "00-4": "marquee",
+        "00-4": "marqueedefault",
         "01-4": "unknown",
         "02-4": "unknown",
         "03-4": "unknown",
