@@ -93,9 +93,10 @@
         "02-4": "media",
         "03-4": "divider",
         "04-4": "aside",
-        "05-4": "assurance",
-        "06-4": "iconblockgroup",
-        "07-4": "iconblockfragment"
+        "05-4": "aside",
+        "06-4": "assurance",
+        "07-4": "iconblockgroup",
+        "08-4": "iconblockfragment"
     },
     "https://www.adobe.com/documentcloud/integrations/microsoft-dynamics-3651.html": {
         "00-4": "iconblock",
